@@ -15,7 +15,7 @@ function createData(name, calories, fat, carbs, protein) {
 
 
 
-
+// simple table
 export default function DenseTable() {
   return (
     <TableContainer component={Paper}>
